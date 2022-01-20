@@ -1,0 +1,9 @@
+---
+title: <titre>
+author: <author
+date: "`r Sys.Date()`"
+output:
+  word_document:
+    reference_docx: template.docx
+    toc: yes
+---
