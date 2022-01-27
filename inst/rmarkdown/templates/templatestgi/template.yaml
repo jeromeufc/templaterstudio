@@ -1,4 +1,4 @@
-name: Documentation FEMTO (rmarkdown)
+name: Documentation STGI (rmarkdown)
 description: >
-  Template pour la documentation FEMTO-ST
+  Template pour la documentation STGI
 create_dir: true
