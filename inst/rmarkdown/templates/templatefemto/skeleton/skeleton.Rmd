@@ -1,9 +1,12 @@
 ---
 title: <titre>
-author: <author
-date: "`r Sys.Date()`"
+author: <author>
 output:
   word_document:
     reference_docx: template.docx
     toc: yes
 ---
+
+|Version | Date | Commentaires |
+|---------- | ------------ |----------------- |
+| 1.0       | <date>   | Version initiale |
